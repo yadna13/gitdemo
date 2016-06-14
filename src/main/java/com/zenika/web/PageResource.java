@@ -15,6 +15,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 /**
  * @author acogoluegnes
+ * sss
  *
  */
 public class PageResource<T> extends ResourceSupport implements Page<T> {
