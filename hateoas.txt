@@ -1,0 +1,170 @@
+[
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/1"
+            }
+        ],
+        "firstname": "Joe",
+        "lastname": "Dalton",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/1"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/2"
+            }
+        ],
+        "firstname": "William",
+        "lastname": "Dalton",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/2"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/3"
+            }
+        ],
+        "firstname": "Jack",
+        "lastname": "Dalton",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/3"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/4"
+            }
+        ],
+        "firstname": "Averell",
+        "lastname": "Dalton",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/4"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/5"
+            }
+        ],
+        "firstname": "Ma",
+        "lastname": "Dalton",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/5"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/6"
+            }
+        ],
+        "firstname": "Mickey",
+        "lastname": "Mouse",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/6"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/7"
+            }
+        ],
+        "firstname": "Minnie",
+        "lastname": "Mouse",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/7"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/8"
+            }
+        ],
+        "firstname": "Donald",
+        "lastname": "Duck",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/8"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/9"
+            }
+        ],
+        "firstname": "Daisy",
+        "lastname": "Duck",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/9"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/10"
+            }
+        ],
+        "firstname": "Riri",
+        "lastname": "Duck",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/10"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/11"
+            }
+        ],
+        "firstname": "Fifi",
+        "lastname": "Duck",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/11"
+        }
+    },
+    {
+        "links": [
+            {
+                "rel": "self",
+                "href": "http://localhost:8080/hateoas/zen-contact/contacts/12"
+            }
+        ],
+        "firstname": "Loulou",
+        "lastname": "Duck",
+        "id": {
+            "rel": "self",
+            "href": "http://localhost:8080/hateoas/zen-contact/contacts/12"
+        }
+    }
+]
